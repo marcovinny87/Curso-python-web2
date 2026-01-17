@@ -1,0 +1,9 @@
+construtor é as características
+
+embaixo é a ação
+
+Santander tem resposta, mas a maioria dos lugares é por indicação
+
+self é uma referencia ao próprio objeto
+
+github: gregorykz
