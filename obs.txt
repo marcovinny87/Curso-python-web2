@@ -7,3 +7,10 @@ Santander tem resposta, mas a maioria dos lugares é por indicação
 self é uma referencia ao próprio objeto
 
 github: gregorykz
+
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/marcovinny87/Curso-python-web2.git
+git push -u origin main
